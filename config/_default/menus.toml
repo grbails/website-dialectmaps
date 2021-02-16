@@ -1,0 +1,37 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "index.html"
+  weight = 1
+  
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 2 
+  
+[[main]]
+  name = "Lexical variation"
+  url = "/lexical/"
+  identifier = "lexical"
+  weight = 3
+
+[[main]]
+  name = "Phonological variation"
+  url = "/phonological/"
+  identifier = "phonological"
+  weight = 4
+
+[[main]]
+  name = "Grammatical variation"
+  url = "/grammatical/"
+  identifier = "grammatical"
+  weight = 5
+  
+[[main]]
+  name = "Press"
+  url = "/press/"
+  weight = 6

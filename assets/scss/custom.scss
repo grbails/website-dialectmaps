@@ -1,0 +1,168 @@
+body {
+  background: #fff;
+  color: #4B4B4B;
+}
+
+.site-footer {
+  padding: 0 !important;
+  margin: 1rem 0 0 !important;
+  background: #fff;
+}
+
+/* link colours are set in the custom theme file but need to add these to also change buttons/navbar links */
+.nav-link:hover {
+  color: #7a4dc4 !important;
+}
+
+.btn, .map-btn, .home-btn {
+  background-color: #fff; /* background colour */
+  border: 2px solid #fff;
+  color: #562e99; /* text colour */
+  padding: 6px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
+
+.btn:hover, .map-btn:hover, .home-btn:hover {
+  background-color: #F5EEF7;
+  border: 2px solid #394c77;
+}
+
+.home-btn {
+  max-width: 230px;
+  width: 40%;
+}
+
+.survey-btn {
+  max-width: 400px;
+  width: 100%;
+  background-color: #7788AD; /* background colour */
+  border: 2px solid #7788AD;
+  color: white; /* text colour */
+  padding: 6px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  border-radius: 12px;
+  margin-bottom: 8px;
+  position: relative;
+  left: 18%;
+}
+
+.survey-btn:hover {
+  background-color: #586C98;
+  border: 2px solid white;
+}
+
+.survey-buttons i {
+  font-size: 18px;
+}
+
+.home-buttons, .survey-buttons {
+  width: inherit;
+}
+
+.row, .survey-buttons p {
+  font-size: 0.8rem !important;
+}
+
+.map-text {
+  max-width: 768px;
+  /*min-height: 580px;*/
+  font-size: 0.7rem !important;
+}
+
+.wg-hero-map .row {
+  min-height: 690px;
+}
+
+.hero-lead-new {
+  font-size: 0.8rem !important;
+}
+
+.hero-lead-new a {
+  color: #562e99 !important;
+  text-decoration: none !important;
+  font-weight: bold;
+}
+
+.hero-lead-new a:hover {
+  color: #7a4dc4 !important;
+  text-decoration: underline !important;
+}
+
+.hero-media {
+  height: auto !important;
+}
+
+.embed-map {
+  position: relative;
+  width: 100%;
+  height: 95%;
+  /*padding-top: 10%;*/
+  border: 1px solid #394c77;
+  min-height: 400px;
+  max-height: 670px;
+  min-width: 450px;
+}
+
+.avatar {
+  width: 321px !important;
+  height: 500px !important;
+}
+
+.map-desc {
+  font-size: 0.8rem;
+}
+
+h1, h2, h3, h4 {
+  color: #394c77;
+}
+
+h4 {
+  font-weight: 100 !important;
+}
+
+.home-section {
+  padding: 110px 0 80px 0;
+}
+
+.wg-hero, .wg-hero-reverse {
+  padding-bottom: 10px !important;
+  padding-top: 10px !important;
+  border-bottom: 2px solid #8187B3;
+}
+
+.wg-about, .wg-pages {
+  padding-bottom: 10px !important;
+  border-bottom: 2px solid #8187B3;
+}
+
+.article-title a {
+  color: #394c77;
+}
+
+/* stop the footer from taking over the page on /syntactic/ (less content than other pages) */
+#syntactic .container {
+  min-height: 650px;
+}
+
+#about .container {
+  min-height: 650px;
+}
+
+/* change site footer text to grey */
+.site-footer p, .site-footer a {
+  color: #989898 !important;
+}
+
+.home-buttons .fas {
+  font-size: 1.5rem;
+}
+
+.legend-box {
+  border-radius: 25px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
