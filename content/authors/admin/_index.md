@@ -45,14 +45,14 @@ superuser: true
 #- Visitors
 ---
 
-_Hello, ey up, y'alright?_ This website celebrates the incredible diversity in dialects of English spoken all over the United Kingdom: one person's _tea_ is another person's _dinner_, and that's only scraping the surface of how people 'darn sarf' talk differently to those 'oop north'. In some parts of England you only have to travel from one coast to the other and the word for _bread_ has changed five times! 
+This website celebrates the incredible diversity in dialects of English spoken all over the United Kingdom: how we use various words to refer to the same things, pronounce the same words in different ways, and even form sentences using entirely different grammatical constructions.
 
-As sociolinguists we're interested in this kind of variation, and we've spent years collecting data from all over the UK to explore regional patterns of language use. This website contains over 30 interactive dialect maps illustrating our findings. Check out the following example maps, or start exploring the full collection of [lexical](/lexical/), [phonological](/phonological/), and [grammatical](/grammatical/) variables.
+As sociolinguists we’re interested in this kind of variation, and we’ve spent years collecting data from all over the UK to explore regional patterns of language use. This website contains over 30 interactive dialect maps illustrating our findings. Check out the following example maps, or start exploring the full collection of [lexical](/lexical/), [phonological](/phonological/), and [grammatical](/grammatical/) variables.
 
 {{< rawhtml >}}
 <div class="home-buttons">
 <a href="/maps/bread/"><button class="home-btn"><i class="fas fa-map-marked-alt"></i><br> What do you call a <em>bread roll</em>?</button></a>
-<a href="/maps/class-farce/"><button class="home-btn"><i class="fas fa-map-marked-alt"></i><br> Do you rhyme the words <em>class</em> and <em>farce</em>?</button></a>
+<a href="/maps/foot-cut/"><button class="home-btn"><i class="fas fa-map-marked-alt"></i><br> Do you rhyme the words <em>foot</em> and <em>cut</em>?</button></a>
 <a href="/maps/give-it-me/"><button class="home-btn"><i class="fas fa-map-marked-alt"></i><br> Could you say the phrase <em>give it me</em>?</button></a>
 </div>
 

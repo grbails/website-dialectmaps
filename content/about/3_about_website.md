@@ -51,7 +51,7 @@ hero_media = "website.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-If you wish to cite this website, please use something like the following: MacKenzie, Laurel, George Bailey & Danielle Turton. 2016. Our Dialects: Mapping variation in English in the UK [Website]. http://tiny.cc/OurDialects.
+If you wish to cite this website, please use something like the following: MacKenzie, Laurel, George Bailey & Danielle Turton. 2016. Our Dialects: Mapping variation in English in the UK [Website]. https://www.ourdialects.uk.
 
 We occasionally use symbols from the International Phonetic Alphabet (IPA) throughout this website to refer to specific sounds. You can learn more about the IPA and listen to the sounds [here](http://www.ipachart.com/).
 

@@ -57,12 +57,6 @@ Generous financial support for this project has come from:
 - The University of Manchester’s Social Responsibility in the Curriculum competition
 - The University of Manchester’s Learning through Research small project funding scheme
 
-This project has also greatly benefitted from the time, patience, input, and ideas of:
-
-- [William Labov](http://www.ling.upenn.edu/~wlabov/home.html)
-- [Gillian Sankoff](https://www.ling.upenn.edu/people/sankoff)
-- [Yaron Matras](http://www.manchester.ac.uk/research/yaron.matras/)
-- Hazel Gardner
-- Mike Addelman
+This project has also greatly benefitted from the input and ideas of [William Labov](http://www.ling.upenn.edu/~wlabov/home.html) and [Gillian Sankoff](https://www.ling.upenn.edu/people/sankoff), and we would also like to thank [Marije van Hattum](https://www.research.manchester.ac.uk/portal/marije.vanhattum.html) for contributing to data collection at the University of Manchester.
 
 Finally, thanks go to everyone who has responded to our dialect survey: students at the University of Manchester, Newcastle University, the University of York and Lancaster University, as well as their friends/family and everyone else who has 'lent' us their dialect for the purposes of this research.
