@@ -8,7 +8,7 @@ weight = 2  # Order that this section will appear.
 title = "The researchers"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "researchers2.png"
+hero_media = "researchers4.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -55,4 +55,4 @@ hero_media = "researchers2.png"
 
 [Dr George Bailey](https://www.gbailey.uk/) is a Lecturer in Phonetics and Phonology at the University of York. He studied Language Variation and Change as part of his undergraduate degree and soon after began development of this website to showcase our findings. George’s PhD research was carried out at the University of Manchester, where he studied variation and change in velar nasals in the North West of England. He also uses a variety of experimental techniques, such as ultrasound tongue imaging, to better understand the articulation of certain sound sequences in northern British English dialects.
 
-[Dr Danielle Turton](http://danielleturton.rbind.io/) is a Lecturer in Sociolinguistics at Lancaster University. She helped plan and design the maps project while serving as a teaching assistant at the University of Manchester. Her research uses experimental methods in phonology and phonetics to look at language variation and change, particularly in the Manchester accent. She has recently been using ultrasound to monitor tongue movements for different accents of English.
+[Dr Danielle Turton](https://danielleturton.rbind.io/) is a Lecturer in Sociolinguistics at Lancaster University. She helped plan and design the maps project while serving as a teaching assistant at the University of Manchester. Her research uses experimental methods in phonology and phonetics to look at language variation and change, particularly in the Manchester accent. She has recently been using ultrasound to monitor tongue movements for different accents of English.

@@ -45,7 +45,7 @@ superuser: true
 #- Visitors
 ---
 
-This website celebrates the incredible diversity in dialects of English spoken all over the United Kingdom: how we use various words to refer to the same things, pronounce the same words in different ways, and even form sentences using entirely different grammatical constructions.
+This website celebrates the rich diversity in dialects of English spoken all over the United Kingdom: how we use various words to refer to the same things, pronounce the same words in different ways, and even form sentences using entirely different grammatical constructions.
 
 As sociolinguists we’re interested in this kind of variation, and we’ve spent years collecting data from all over the UK to explore regional patterns of language use. This website contains over 30 interactive dialect maps illustrating our findings. Check out the following example maps, or start exploring the full collection of [lexical](/lexical/), [phonological](/phonological/), and [grammatical](/grammatical/) variables.
 
